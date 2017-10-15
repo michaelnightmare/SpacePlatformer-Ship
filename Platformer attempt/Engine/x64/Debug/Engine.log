@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  Ship.cpp
+c:\users\michael nightmare\desktop\platformer attempt\engine\ship.cpp(115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  randos.cpp
+  Player.cpp
+c:\users\michael nightmare\desktop\platformer attempt\engine\player.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\player.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Platform.cpp
+  NonInteractive.cpp
+  LevelHazards.cpp
+  LaserBeam.cpp
+  GameObjects.cpp
+  Game.cpp
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(172): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(189): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(250): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(285): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(441): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(447): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(471): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(484): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(488): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(498): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(503): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(508): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(513): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michael nightmare\desktop\platformer attempt\engine\game.cpp(533): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  FlyingEnemy.cpp
+  Engine.cpp
+  EnemyProjectiles.cpp
+  Enemy.cpp
+  Collider.cpp
+  Collectible.cpp
+  Boss.cpp
+  Animator.cpp
+  Generating Code...
+c:\users\michael nightmare\desktop\platformer attempt\engine\animator.cpp(120): warning C4715: 'Animator::ChooseRow': not all control paths return a value
+  Engine.vcxproj -> C:\Users\Michael Nightmare\Desktop\Platformer attempt\Engine\x64\Debug\Engine.exe
+  Engine.vcxproj -> C:\Users\Michael Nightmare\Desktop\Platformer attempt\Engine\x64\Debug\Engine.pdb (Partial PDB)
